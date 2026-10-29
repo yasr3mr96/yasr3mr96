@@ -12,7 +12,7 @@
 </p>
 
 ## 🧑‍💻 About me
-- Senior Odoo Developer at **Proactive Solution** (2025 – present); previously **MONK Software**, Rome (2022 – 2025)
+- Senior Odoo Developer with 7+ years of hands-on experience (Odoo 12 → 20), working with companies in Egypt, Saudi Arabia and Europe
 - I design and build **custom Odoo modules** across Sales, Purchase, Accounting, Inventory, POS, HR and Website
 - Industry solutions for **Real Estate, Construction/Contracting, Clinics, Restaurants** and more
 - **API integrations** with external systems (payment gateways, e-invoicing, third-party platforms)
